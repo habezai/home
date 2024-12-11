@@ -12,7 +12,7 @@ layout: home
     - [PQC后量子密码学]
     - [对称密码学]
     - [公钥密码学]()
-    - [国密算法]()
+    - [国密算法](https://habezai.github.io/GuoMi)
     - [区块链]()
     - [openssl]()
 
