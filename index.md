@@ -4,8 +4,7 @@ layout: home
 ---
 
 # 首页
-
-这是Habezai的个人网站 :
+这是Habezai的个人网站
 
 
 ## 子网站列表
