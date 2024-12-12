@@ -6,20 +6,6 @@ layout: home
 # 首页
 这是Habezai的个人网站
 
-# 本站内容
-- 写作
-    - [Markdown]
-    - [Mermaid]
-    - [Vim]
-    - [Git]
-
-- Cheatsheet
-    - [GDB]
-    - [CMD,BAT]
-    - [正则表达式]
-    - [OPENSSL]
-
-
 ## 子网站列表
 - 密码学
     - [对称密码学]
@@ -45,6 +31,18 @@ layout: home
     - [线性代数]
     - [概率论]
 
+# 本站内容
+- 写作
+    - [Markdown]
+    - [Mermaid]
+    - [Vim]
+    - [Git]
+
+- Cheatsheet
+    - [GDB]
+    - [CMD,BAT]
+    - [正则表达式]
+    - [OPENSSL]
 
 
 
