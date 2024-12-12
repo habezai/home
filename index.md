@@ -6,28 +6,47 @@ layout: home
 # 首页
 这是Habezai的个人网站
 
-
-## 子网站列表
-- 密码学
-    - [PQC后量子密码学]
-    - [对称密码学]
-    - [公钥密码学]
-    - [国密算法]
-    - [区块链]
-    - [openssl]
-
-- Python
-    - [Python基础]
-    - [爬虫]
-    - [sqlite数据库]
-    - [tkinter图形化界面]
-    - [Flask Web开发]
-
+# 本站内容
 - 写作
     - [Markdown]
     - [Mermaid]
     - [Vim]
+    - [Git]
+
+- Cheatsheet
+    - [GDB]
+    - [CMD,BAT]
     - [正则表达式]
+    - [OPENSSL]
+
+
+## 子网站列表
+- 密码学
+    - [对称密码学]
+    - [公钥密码学]
+    - [国密算法]
+    - [PQC后量子密码学]
+    - [区块链]
+
+- Python
+    - [Python基础]
+    - [爬虫]
+    - [SQLite数据库]
+    - [tkinter图形化界面]
+    - [Flask Web开发]
+
+- 通信
+    - [信号与系统]
+    - [信息论]
+    - [通信原理]
+    -［计算机网络］
+
+- 数学
+    - [线性代数]
+    - [概率论]
+
+
+
 
 [PQC后量子密码学]:https://habezai.github.io/PQC/
 [国密算法]:https://habezai.github.io/GuoMi/
