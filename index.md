@@ -20,6 +20,8 @@ layout: home
     - [Python基础]
     - [爬虫]
     - [sqlite数据库]
+    - [tkinter图形化界面]
+    - [Flask Web开发]
 
 - 写作
     - [Markdown]
