@@ -1,6 +1,6 @@
 ---
 title: 区块链学习
-layout: home
+layout: default
 ---
 
 # Blockchain-Technology-and-Application-Notes-2018
