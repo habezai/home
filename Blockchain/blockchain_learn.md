@@ -56,28 +56,8 @@ This repository includes the following:
 - References to the course videos.
 - Supplementary slides for various topics covered in the course.
 
-## Contributing
-
-Contributions to this repository are welcome! If you have additional notes, corrections, or resources related to this course, feel free to submit a pull request.
-
-If you’d like to contribute to a specific chapter, please find the corresponding issue in the issue list and leave a comment there.
-
-### Contribution Guidelines
-
-When submitting a pull request (PR), please ensure that it includes a reference to any related issues. To automatically close issues when the PR is merged, include the following keyword in your PR description:
-
-- `closes #issue_number`
-- `fixes #issue_number`
-
-Replace `#issue_number` with the actual issue number. This helps us keep track of completed work and maintain our project’s organization. Thank you for your contributions!
-
-## License
+---
+## 声明
 原作者:YoubetDao
 资料源:https://github.com/YoubetDao/Blockchain-Technology-and-Application-Notes-2018
 本作品基于以上资料来源修改而成。
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
----
-
-This repository is dedicated to providing a comprehensive resource for everyone interested in blockchain technology and its applications, as taught by one of the leading experts in the field.
