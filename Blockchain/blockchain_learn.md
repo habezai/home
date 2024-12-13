@@ -58,6 +58,7 @@ This repository includes the following:
 
 ---
 ## 声明
-原作者:YoubetDao
-资料源:https://github.com/YoubetDao/Blockchain-Technology-and-Application-Notes-2018
+原作者:YoubetDao  
+资料源:https://github.com/YoubetDao/  
+Blockchain-Technology-and-Application-Notes-2018  
 本作品基于以上资料来源修改而成。
