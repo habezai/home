@@ -9,8 +9,9 @@ layout: default
 [asciiflow仓库]  
 
 # 实践效果:      
-```
-    ┌────────────────┐                           
+
+<div style="line-height:2;">
+ ┌────────────────┐                           
     │                ◄─────────────────┐         
     │ this is a node │                 │         
     │               ─┼────────┐        │         
@@ -25,8 +26,9 @@ layout: default
   ┌────┼──▼──────────┐        │                  
   │ third node       ┼────────┘                  
   │                  │                           
-  └──────────────────┘                           
-```
+  └──────────────────┘        
+</div>
+
 
 [asciiflow仓库]: https://github.com/lewish/asciiflow
 [asciiflow官网]: https://asciiflow.com/
