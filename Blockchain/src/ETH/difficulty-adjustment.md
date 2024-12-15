@@ -1,5 +1,5 @@
 ---
-title: 以太坊学习
+title: 以太坊 难度调整
 layout: home
 ---
 # P20 ETH Difficulty Adjustment 
