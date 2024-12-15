@@ -1,5 +1,5 @@
 ---
-title: 比特币学习
+title: 比特币BTC-Anonymity
 layout: home
 ---
 **BTC-Anonymity** refers to the level of anonymity or privacy that Bitcoin (BTC) transactions provide. Despite being widely perceived as offering anonymous transactions, Bitcoin is actually pseudonymous rather than fully anonymous. Here's a breakdown of what this means:
