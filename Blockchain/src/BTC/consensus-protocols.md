@@ -1,5 +1,5 @@
 ---
-title: 比特币学习
+title: 比特币 共识协议
 layout: home
 ---
 # Build A Decentralized Monetary System
