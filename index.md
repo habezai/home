@@ -20,6 +20,7 @@ layout: home
     - [SQLite数据库]
     - [tkinter图形化界面]
     - [Flask Web开发]
+【油管上热门的 flask 教程 | 2个小时速成-哔哩哔哩】 https://b23.tv/wacD0IH
 
 - 通信
     - [信号与系统]  
