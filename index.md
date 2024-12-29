@@ -23,6 +23,9 @@ layout: home
 【油管上热门的 flask 教程 | 2个小时速成-哔哩哔哩】 https://b23.tv/wacD0IH
     - [YAML三分钟速成]
 
+- Javascript
+    - [Y分钟学会Javascript(中文)]
+
 - 通信
     - [信号与系统]  
     - [信息论]  
@@ -54,3 +57,4 @@ layout: home
 [区块链]: Blockchain/blockchain_learn
 [ASCII 流程图]: Writing_skills/ascii_flow
 [YAML三分钟速成]: cheatsheets/YAML.html
+[Y分钟学会Javascript(中文)]: Coding_language/Javasript.html
