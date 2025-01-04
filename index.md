@@ -27,10 +27,10 @@ layout: home
     - [Y分钟学会Javascript(中文)]  
     - [现代Javascript教程]
         - [现代模式"use strict"]  
-        - [变量]
-老var 新let 
-```javascript
+        - [变量]  
 
+```javascript
+//使用let，老脚本可能用var
 let message;
 
 message = 'Hello!';
