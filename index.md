@@ -26,6 +26,7 @@ layout: home
 - Javascript
     - [Y分钟学会Javascript(中文)]  
     - [现代Javascript教程]
+        - [现代模式"use strict"]
 
 - 通信
     - [信号与系统]  
@@ -60,3 +61,4 @@ layout: home
 [YAML速查表]: cheatsheets/YAML.html
 [Y分钟学会Javascript(中文)]: Coding_language/Javasript.html
 [现代Javascript教程]: https://zh.javascript.info/js
+[现代模式"use strict"]: https://zh.javascript.info/strict-mode
