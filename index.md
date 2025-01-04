@@ -21,10 +21,11 @@ layout: home
     - [tkinter图形化界面]
     - [Flask Web开发]
 【油管上热门的 flask 教程 | 2个小时速成-哔哩哔哩】 https://b23.tv/wacD0IH
-    - [YAML三分钟速成]
+    - [YAML速查表]
 
 - Javascript
     - [Y分钟学会Javascript(中文)]
+    -［现代Javascript教程］
 
 - 通信
     - [信号与系统]  
@@ -56,5 +57,6 @@ layout: home
 [国密算法]:https://habezai.github.io/GuoMi/
 [区块链]: Blockchain/blockchain_learn
 [ASCII 流程图]: Writing_skills/ascii_flow
-[YAML三分钟速成]: cheatsheets/YAML.html
+[YAML速查表]: cheatsheets/YAML.html
 [Y分钟学会Javascript(中文)]: Coding_language/Javasript.html
+[现代Javascript教程] : https://zh.javascript.info/js
