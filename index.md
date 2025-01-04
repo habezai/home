@@ -24,7 +24,7 @@ layout: home
     - [YAML速查表]
 
 - Javascript
-    - [Y分钟学会Javascript(中文)]
+    - [Y分钟学会Javascript(中文)]   
     -［现代Javascript教程］
 
 - 通信
@@ -59,4 +59,4 @@ layout: home
 [ASCII 流程图]: Writing_skills/ascii_flow
 [YAML速查表]: cheatsheets/YAML.html
 [Y分钟学会Javascript(中文)]: Coding_language/Javasript.html
-[现代Javascript教程] : https://zh.javascript.info/js
+[现代Javascript教程]: https://zh.javascript.info/js
