@@ -24,8 +24,8 @@ layout: home
     - [YAML速查表]
 
 - Javascript
-    - [Y分钟学会Javascript(中文)]   
-    -［现代Javascript教程］
+    - [Y分钟学会Javascript(中文)]  
+    - [现代Javascript教程]
 
 - 通信
     - [信号与系统]  
