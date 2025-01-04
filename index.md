@@ -28,6 +28,17 @@ layout: home
     - [现代Javascript教程]
         - [现代模式"use strict"]  
         - [变量]
+老var 新let 
+```javascript
+
+let message;
+
+message = 'Hello!';
+
+message = 'World!'; // 值改变了
+
+alert(message);
+```
 
 - 通信
     - [信号与系统]  
