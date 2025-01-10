@@ -9,6 +9,7 @@ layout: home
 ## 子网站列表
 - 密码学
     - [对称密码学]
+        - [HMAC]
     - [公钥密码学]
     - [国密算法]
     - [PQC后量子密码学]
@@ -75,3 +76,4 @@ alert(message);
 [现代Javascript教程]: https://zh.javascript.info/js
 [现代模式"use strict"]: https://zh.javascript.info/strict-mode
 [变量]: https://zh.javascript.info/variables
+[HMAC]: https://mp.weixin.qq.com/s/1OwaM3uwyNzVtiK5R8bt2w
