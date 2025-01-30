@@ -69,7 +69,6 @@ alert(message);
 
 [PQC后量子密码学]:https://habezai.github.io/PQC/
 [国密算法]:https://habezai.github.io/GuoMi/
-[区块链]: Blockchain/blockchain_learn
 [ASCII 流程图]: Writing_skills/ascii_flow
 [YAML速查表]: cheatsheets/YAML.html
 [Y分钟学会Javascript(中文)]: Coding_language/Javasript.html
